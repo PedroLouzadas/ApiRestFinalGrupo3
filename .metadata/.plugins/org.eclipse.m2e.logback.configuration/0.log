@@ -1,0 +1,12 @@
+2022-06-14 19:39:47,972 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-14 19:55:00,594 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-14 19:59:23,303 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.residencia:commerce:0.0.1-SNAPSHOT @ C:\Users\DESKTOP\Desktop\ApiReact\APIcommerce-trabalhoFinal\pom.xml.
+2022-06-14 19:59:34,406 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIcommerce-trabalhoFinal/src/main/java
+2022-06-14 19:59:34,407 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIcommerce-trabalhoFinal/src/main/resources
+2022-06-14 19:59:34,408 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIcommerce-trabalhoFinal/src/main/resources
+2022-06-14 19:59:34,408 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIcommerce-trabalhoFinal/src/test/java
+2022-06-14 19:59:35,035 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2022-06-14 19:59:39,387 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-14 19:59:39,388 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-14 19:59:39,393 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-14 19:59:39,465 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
